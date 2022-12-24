@@ -1,0 +1,8 @@
+{
+  "name": "LostPlace",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "8b055b26"
+}
